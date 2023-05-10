@@ -1,7 +1,7 @@
-1. abri la consola nada mas 
-2. la cree desde el archivo
+1. pwd 
+2. mkdir
 3.cd OneDrive\Escritorio\ejercicios
-4 abri la carpeta
+4 code .
 5.cree la carpeta
 6 abri el archivo
 7. git config --global user.name Joshua y git config --global user.email 
